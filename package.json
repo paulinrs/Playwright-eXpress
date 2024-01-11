@@ -1,0 +1,22 @@
+{
+  "name": "playwright-mark",
+  "version": "1.0.0",
+  "description": "<img src=\"https://github.com/paulinrs/paulinrs/assets/104467309/8f68c113-c737-427c-82e7-a624bdc4de35\" width=\"250px\">",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "playwright": "^1.40.1",
+    "playwright-core": "^1.40.1",
+    "undici-types": "^5.26.5"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.40.1",
+    "@types/node": "^20.10.8"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
