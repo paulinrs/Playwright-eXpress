@@ -21,7 +21,7 @@ test(' deve poder cadastrar uma nova tarefa ', async ({ page, request }) => {
 test('não deve permitir tarefa duplicada', async ({ page, request }) => {
 
     const task = {
-        name: 'estudar Node.js',
+        name: 'Pesquisar sobre os fundamentos de teste',
         is_done: false
     }
 
